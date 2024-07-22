@@ -1,7 +1,6 @@
 Code Collaboration App
 
 Overview
-
 This Code Collaboration App allows users to interactively edit and share code blocks in real-time.
 
 Features
@@ -10,8 +9,9 @@ Role-Based Access: The first user to join a code block session is assigned the m
 Persistence of Changes: Changes made by students are saved to a MongoDB database, ensuring that edits are retained across sessions.
 
 Technology Stack
+
 Frontend: React
 Backend: Node.js, Express, Socket.IO
 Database: MongoDB
 
-Application Link: http://63.34.28.205/
+Link to the application: http://63.34.28.205/
